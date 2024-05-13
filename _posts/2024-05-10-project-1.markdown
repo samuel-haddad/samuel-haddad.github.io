@@ -4,8 +4,8 @@ subtitle: Classification Machine Learning Model
 layout: default
 modal-id: 1
 date: 2024-05-10
-img: identity.jpeg
-thumbnail: identity-thumb.jpeg
+img: identity.jpg
+thumbnail: identity-thumb.jpg
 alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap

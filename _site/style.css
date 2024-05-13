@@ -662,6 +662,7 @@ section h3.section-subheading {
 
 aside.clients img {
     margin: 50px auto;
+    display: none;
 }
 
 section#contact {
@@ -669,6 +670,7 @@ section#contact {
     background-image: url('/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
+    display: none;
 }
 
 section#contact .section-heading {
@@ -732,6 +734,7 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    background-color: #222
 }
 
 footer span.copyright {
@@ -739,6 +742,7 @@ footer span.copyright {
     text-transform: none;
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+    color: #fff;
 }
 
 footer ul.quicklinks {
@@ -811,6 +815,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
+    display: none;
 }
 
 .portfolio-modal .modal-content img {
