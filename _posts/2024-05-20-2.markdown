@@ -1,9 +1,9 @@
 ---
-title: ML Pipeline
-subtitle: ML Pipeline for Short-Term Rental Prices
+title: Data Strategy
+subtitle: Data intelligence for a mid funnel strategy
 layout: default
-modal-id: 3
-date: 2024-05-15
+modal-id: 1
+date: 2024-05-20
 img: ml-pipeline.png
 thumbnail: ml-pipeline-thumb.png
 alt: wanb-ml-pipeline

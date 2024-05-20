@@ -654,8 +654,22 @@ section h3.section-subheading {
 
 aside.clients img {
     margin: 50px auto;
-    display: none;
+    /* display: none; */
 }
+
+aside.clients h2 {
+    margin-bottom: 15px;
+    font-size: 3em;
+}
+
+aside.clients h3 {
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    text-transform: none;
+}
+
 
 section#contact {
     background-color: #222;

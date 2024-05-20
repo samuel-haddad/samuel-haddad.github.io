@@ -1,0 +1,23 @@
+---
+title: Social Listening
+subtitle: GOV,  Tourism & Finance
+layout: default
+modal-id: 1
+date: 2024-05-20
+img: dashboards.jpg
+thumbnail: dashboards-thumb.jpg
+alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Advanced Analytics
+description:
+---
+
+### Social upheaval on social media: a country in constant crisis
+**Year: 2017-2019**
+
+The period from 2016 to 2019 was very turbulent in the country. If the impeachment of Dilma Roussef and the election of Jair Bolsonaro would be enough to divide and generate a lot of controversy, in the middle of the road there were still many other crises. Pension Reform, Labor Reform, Truckers' Strike and Brumadinho's Tragedy are certainly among the main ones. Lots of discussion on the internet, with a lot of discussion on the internet and a lot of international repercussion.
+
+### Multidisciplinary
+
+Adoption of new methodologies and methods of analysis: A / B tests, lexical analysis, predictive analysis, graph analysis."

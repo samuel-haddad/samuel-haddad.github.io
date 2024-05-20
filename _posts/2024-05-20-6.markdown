@@ -3,7 +3,7 @@ title: Fraud detection with ML
 subtitle: Classification Machine Learning Model
 layout: default
 modal-id: 1
-date: 2024-05-10
+date: 2024-05-20
 img: identity.jpg
 thumbnail: identity-thumb.jpg
 alt: image-alt
@@ -11,5 +11,4 @@ alt: image-alt
 #client: Start Bootstrap
 #category: Web Development
 description: Machine Learning Model development to fraud detection at Dock and subject of my MBA final project.
-
 ---
