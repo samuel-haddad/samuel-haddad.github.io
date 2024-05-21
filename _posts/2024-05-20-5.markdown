@@ -2,7 +2,7 @@
 title: ML Pipeline
 subtitle: ML Pipeline for Short-Term Rental Prices
 layout: default
-modal-id: 1
+modal-id: 5
 date: 2024-05-20
 img: ml-pipeline.png
 thumbnail: ml-pipeline-thumb.png
